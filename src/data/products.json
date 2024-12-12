@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1200,
+    "year": 2022,
+    "owner": { "name": "John Doe", "email": "john@example.com" }
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 800,
+    "year": 2021,
+    "owner": { "name": "Jane Smith", "email": "jane@example.com" }
+  },
+  {
+    "id": 3,
+    "name": "Tablet",
+    "price": 400,
+    "year": 2022,
+    "owner": { "name": "Bob Johnson", "email": "bob@example.com" }
+  },
+  {
+    "id": 4,
+    "name": "Headphones",
+    "price": 100,
+    "year": 2020,
+    "owner": { "name": "Alice Brown", "email": "alice@example.com" }
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch",
+    "price": 250,
+    "year": 2021,
+    "owner": { "name": "Charlie Davis", "email": "charlie@example.com" }
+  },
+  {
+    "id": 6,
+    "name": "Camera",
+    "price": 600,
+    "year": 2020,
+    "owner": { "name": "Eva Wilson", "email": "eva@example.com" }
+  },
+  {
+    "id": 7,
+    "name": "Gaming Console",
+    "price": 400,
+    "year": 2022,
+    "owner": { "name": "David Taylor", "email": "david@example.com" }
+  },
+  {
+    "id": 8,
+    "name": "Wireless Speaker",
+    "price": 80,
+    "year": 2021,
+    "owner": { "name": "Grace Moore", "email": "grace@example.com" }
+  },
+  {
+    "id": 9,
+    "name": "External Hard Drive",
+    "price": 120,
+    "year": 2019,
+    "owner": { "name": "Frank Brown", "email": "frank@example.com" }
+  },
+  {
+    "id": 10,
+    "name": "Printers",
+    "price": 150,
+    "year": 2020,
+    "owner": { "name": "Helen Miller", "email": "helen@example.com" }
+  }
+]
